@@ -2,7 +2,8 @@
 Designed and developed a Replicated Key-Value Storage- Simplefied Amazon Dynamo for the course CSE 586: Distributed Systems offered in Spring 2019 at University at Buffalo under the prof. Steve Ko. 
 
 ## Intoduction
-Replicated Key-Value Storage
+### Replicated Key-Value Storage
+
 The goal is to implement amazon dynamo:
 
 1) Partitioning 
