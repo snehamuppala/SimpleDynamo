@@ -1,5 +1,5 @@
 # SimpleDynamo
-Designed and developed a Replicated Key-Value Storage- Simplefied Amazon Dynamo for the course CSE 586: Distributed Systems offered in Spring 2019 at University at Buffalo under the prof. Steve Ko. 
+Designed and developed a real time messaging application with multicast capability following Replicated Key-Value Storage- Simplefied Amazon Dynamo for the course CSE 586: Distributed Systems offered in Spring 2019 at University at Buffalo under the prof. Steve Ko. 
 
 ## Intoduction
 ### Replicated Key-Value Storage
