@@ -47,3 +47,4 @@ For testing using grader please refer the following doc: https://docs.google.com
 
 ## Reference
 https://cse.buffalo.edu/~stevko/courses/cse486/spring19/lectures/28-dynamo.pdf
+https://aws.amazon.com/dynamodb/
